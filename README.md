@@ -8,3 +8,7 @@ The purpose of this project is for the Fetch Rewards MLE Apprenticeship. This pr
 
 ### Getting Started
 The program is packaged using [Docker](https://www.docker.com/)
+
+1. Install from Command Line:
+``` docker pull ghcr.io/hannahbw12/fetch_rewards_project:latest ```
+2. Run: ```docker run -it -p 8080:8080 ghcr.io/hannahbw12/fetch_rewards_project:latest```
