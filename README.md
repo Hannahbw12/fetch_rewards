@@ -12,3 +12,4 @@ The program is packaged using [Docker](https://www.docker.com/)
 1. Install from Command Line:
 ``` docker pull ghcr.io/hannahbw12/fetch_rewards_project:latest ```
 2. Run: ```docker run -it -p 8080:8080 ghcr.io/hannahbw12/fetch_rewards_project:latest```
+3. Copy and Paste the address shown in command line into web browser (ex: http://127.0.0.1:8080)
